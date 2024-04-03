@@ -1,0 +1,13 @@
+Dados do aluno
+
+-Primeiro Nome: Eduardo 
+-Profissão: QA
+-Cidade: Manaus
+-O que faz nas horas vaga: Jogar Video Game
+-Feedback sobre o curso Qualidade de Software: Estou gostando muito do curso, as atividades são bastante intuitivas.
+-Feedback sobre a plataforma de estudo da EBAC:A plataforma é muito boa, gosto da proposta de realizar o exercicio antes de avançar
+o próximo módulo.
+
+Obrigado!!!
+
+-Por Nada!
